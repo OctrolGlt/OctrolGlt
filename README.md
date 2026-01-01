@@ -24,18 +24,8 @@
 
 ---
 
-## 📊 Estadísticas y Conexión:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contacto:
 - [cite_start]**Email:** [trocolo98@gmail.com](mailto:trocolo98@gmail.com) [cite: 34]
-- [cite_start]**Ubicación:** Veracruz, México [cite: 35]
 - [cite_start]**Idiomas:** Español (Nativo) e Inglés (A2) [cite: 27, 30]
 
 ---
