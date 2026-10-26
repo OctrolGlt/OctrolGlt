@@ -25,7 +25,7 @@ Soy una persona proactiva, organizada y responsable[cite: 3]. [cite_start]Me mot
 ---
 
 ## 📫 Contacto:
-- **Email:** [trocolo98@gmail.com](mailto:trocolo98@gmail.com)
+- **Email:** [christiannrgt@gmail.com](mailto:christiannrgt@gmail.com)
 - **Idiomas:** Español (Nativo) e Inglés (A2)
 
 ---
